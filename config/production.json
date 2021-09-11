@@ -1,0 +1,6 @@
+{
+    "nombre":"Api Rest Expreess PRODUCCION",
+    "configDB":{
+        "host":"Produccion-db-server"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "nombre":"Api Rest Expreess DESARROLLO",
+    "configDB":{
+        "host":"development-db-server-"
+    }
+}

@@ -9,7 +9,13 @@
   "author": "Jordi Casaico Terbullino",
   "license": "ISC",
   "dependencies": {
+    "@hapi/joi": "^17.1.1",
     "colors": "^1.4.0",
-    "mongoose": "^6.0.5"
+    "config": "^3.3.6",
+    "debug": "^4.3.2",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.5",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.12"
   }
 }
